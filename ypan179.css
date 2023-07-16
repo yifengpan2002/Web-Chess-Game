@@ -1,0 +1,206 @@
+
+.header{
+    display: block;
+    width: 100%;
+}
+
+#AG_Logo {
+    width: 50px;
+    padding-right: 60%;
+    display: block;
+}
+#Home_Icon{
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Login_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Register_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Shoping_cart_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Comment_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Game_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Home_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+#Logout_Icon {
+    display: inline;
+    cursor: pointer;
+    padding-right: 30px;
+}
+
+
+/* this is for body section */
+.center{
+    text-align: center;
+}
+#Home_img{
+    width: 30%;
+    height: 30%;
+}
+#version_number{
+    text-align: center;
+}
+
+
+/* this is for login section */
+form{
+    height: 520px;
+    width: 400px;
+}
+label {
+    color: black;
+}
+.login_section{
+    background-color: black;
+}
+
+/* this is session for comment section */
+#Comment_Form{
+    height: 30%;
+}
+
+td{
+    height: 64px;
+    width: 64px;
+    text-align: center;
+    
+}
+.mise{
+    background-color:rgb(37, 156, 200);
+    padding: 0px;
+}
+.zise{
+    background-color: rgb(149, 68, 225);
+    padding: 0px;
+}
+.Start {
+    background: white;
+    color: rgb(15, 120, 239);
+    border-color: rgb(59, 59, 214);
+    border-style: solid;
+    border-width: 1px;
+    height: 35px;
+    width: 55px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: background-color 1s,
+        color 1s;
+}
+
+.Start:hover {
+    color: white;
+    background-color: rgb(15, 120, 239);
+}
+
+.TheirMove{
+    color: white;
+    background: rgb(44, 118, 255);
+    height: 35px;
+    width: 100px;
+    border: solid;
+    border-top: -10px;
+    border-radius: 2px;
+    margin-left: 8px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    /* display: none; */
+
+}
+
+.TheirMove:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.Quit {
+    background: rgb(231, 37, 37);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 55px;
+    margin-left: 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    /* display: none; */
+}
+
+.Quit:hover {
+    opacity: 0.5;
+    
+}
+
+.Quit:active {
+    opacity: 0.1;
+}
+.center {
+    text-align: center;
+}
+#ChessBoard{
+    float: center;
+}
+button:disabled,
+button[disabled] {
+    border: 1px solid #999999;
+    background-color: #cccccc;
+    color: #666666;
+}
+@media (min-width: 718px){
+    #AG_Logo {
+            width: 50px;
+            display: inline;
+            padding-right: 0px;
+        }
+}
+@media (min-width: 1000px) {
+    #AG_Logo {
+        width: 50px;
+        display: inline;
+        padding-right: 30%;
+    }
+}
+@media (min-width: 1700px) {
+    #AG_Logo {
+        width: 50px;
+        display: inline;
+        padding-right: 60%;
+    }
+}
+
+/* @media (max-width: 1000px) {
+    #AG_Logo {
+        width: 50px;
+        display: inline;
+        padding-right: 70px;
+    }
+}
+@media (max-width: 1729px) {
+    #AG_Logo {
+        width: 50px;
+        display: inline;
+        padding-right: 50%;
+    }
+} */
