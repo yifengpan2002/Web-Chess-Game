@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{D031190A-FF0E-4D88-AF7F-F1F550AD4B8C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.A2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dtos/GameRecordOut.cs">
+    <Files>
+      <File FileName="Data/IA2Repo.cs" Line="27" Column="9" />
+      <File FileName="Data/A2Repo.cs" Line="79" Column="14" />
+      <File FileName="Controllers/A2Controller.cs" Line="195" Column="37" />
+      <File FileName="Models/GameMove.cs" Line="12" Column="2" />
+      <File FileName="Program.cs" Line="28" Column="4" />
+      <File FileName="Models/Order.cs" Line="13" Column="2" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="17" Column="49" />
+      <File FileName="Data/A2DBContext.cs" Line="15" Column="2" />
+      <File FileName="Models/GameRecord.cs" Line="18" Column="2" />
+      <File FileName="Models/User.cs" Line="14" Column="2" />
+      <File FileName="Handler/A2AuthHandler.cs" Line="49" Column="51" />
+      <File FileName="Dtos/GameRecordOut.cs" Line="16" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A2" expanded="True" selected="True">
+            <Node name="A2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Handler" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
